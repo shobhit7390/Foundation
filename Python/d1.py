@@ -1,3 +1,4 @@
+
 #Indentation
 
 if 5>2:
@@ -39,15 +40,4 @@ def func1():
     x="pretty"
 func1()
 print("Python is "+x)
-
-
-
-
-
-
-
-
-
-
-
 
