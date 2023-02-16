@@ -17,3 +17,9 @@ while(i<=38):
     print(i)
 print("Done with the loop")
 
+
+# do while loop
+
+# do{
+#     loop body
+# }while(condition)
