@@ -1,4 +1,4 @@
-# Inheritence
+# Inheritance
 
 # WHen a classs derives from another class . The child class will inherit all the public and protected properties and methods from the parent class
 
