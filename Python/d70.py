@@ -37,6 +37,3 @@ person=Person.from_string("Meg Lanning,31")
 
 print(person.name,person.age)
 
-
-
-
