@@ -1,7 +1,5 @@
 # News app in Python using requests module
 
-# API_KEY=dbe57b028aeb41e285a226a94865f7a7
-
 import requests
 import json 
 
